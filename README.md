@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### I am Software Engineer
 
--   ✨ I’m currently a Software Engineer - QA at Persistent Systems.
+-   ✨ I’m currently a Software Engineer - Verification at GreyOrange.
 -   🔭 These days I'm learning Manual and Automation testing using Java and Selenium.
 -   ⚡ Fun fact: I love editing and designing videos and pictures.
 
