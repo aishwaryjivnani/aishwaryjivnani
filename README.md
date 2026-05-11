@@ -47,14 +47,6 @@ Here are some ideas to get you started:
 ## :bar_chart: My Stats
 
 <details>
-  <summary>:chart_with_upwards_trend: Github Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwaryjivnani&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryjivnani&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
-</details>
-
-<details>
   <summary>:fire: GitHub Streak</summary>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryjivnani&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
